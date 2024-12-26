@@ -1,0 +1,101 @@
+{
+    "short_name": "SADINA",
+    "name": "Sistem Presensi",
+    "icons": [
+        {
+            "src": "/images/icons/logosmk-72x72.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/icons/logosmk-96x96.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/icons/logosmk-128x128.png",
+            "sizes": "128x128",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/icons/logosmk-144x144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/icons/logosmk-152x152.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/icons/logosmk-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/icons/logosmk-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/icons/logosmk-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "id": "/",
+    "start_url": "/",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff",
+    "screenshots": [
+        {
+            "src": "/images/icons/screen-640x1136.png",
+            "sizes": "640x1136",
+            "type": "image/png",
+            "form_factor": "narrow"
+        },
+        {
+            "src": "/images/icons/screen-750x1334.png",
+            "sizes": "750x1334",
+            "type": "image/png",
+            "form_factor": "narrow"
+        },
+        {
+            "src": "/images/icons/screen-828x1792.png",
+            "sizes": "828x1792",
+            "type": "image/png",
+            "form_factor": "narrow"
+        },
+        {
+            "src": "/images/icons/screen-1125x2436.png",
+            "sizes": "1125x2436",
+            "type": "image/png",
+            "form_factor": "narrow"
+        },
+        {
+            "src": "/images/icons/screen-1242x2208.png",
+            "sizes": "1242x2208",
+            "type": "image/png",
+            "form_factor": "wide"
+        },
+        {
+            "src": "/images/icons/screen-1536x2048.png",
+            "sizes": "1536x2048",
+            "type": "image/png",
+            "form_factor": "wide"
+        },
+        {
+            "src": "/images/icons/screen-1668x2224.png",
+            "sizes": "1668x2224",
+            "type": "image/png",
+            "form_factor": "wide"
+        },
+        {
+            "src": "/images/icons/screen-2048x2732.png",
+            "sizes": "2048x2732",
+            "type": "image/png",
+            "form_factor": "wide"
+        }
+    ]
+}
